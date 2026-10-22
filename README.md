@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atiq Ahmed Reza</h1>
+<h1 align="center">Hi 👋, I'm Atiq Ahmed Reza</h1>
 <h3 align="center">Web Developer · CSE Student</h3>
 
 <p align="center">
@@ -60,15 +60,15 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-streak-stats.demolab.com/?user=atiqahmedreza&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
-    alt="Contribution streak"
+    src="https://github-readme-streak-stats.demolab.com/?user=atiqahmedreza&theme=dark&hide_border=true"
+    alt="GitHub contribution streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=atiqahmedreza&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true"
-    alt="Contribution activity graph"
+    src="https://ghchart.rshah.org/atiqahmedreza"
+    alt="GitHub contribution activity graph"
   />
 </p>
 
@@ -76,42 +76,58 @@
 
 ## 🚀 Featured projects
 
-<details open>
-<summary><strong>1. Meridian Goods</strong> — E-commerce storefront</summary>
+### 1. Meridian Goods · E-commerce storefront
+
+**Repo:** [meridian-goods](https://github.com/atiqahmedreza/meridian-goods) · **Live:** [remontada-shop.vercel.app](https://remontada-shop.vercel.app)
+
+Meridian Goods is a modern online store where anyone can browse and search products with filters, open detailed product pages, and sign in to add or manage items in a protected dashboard. It is built for speed and clarity: Firebase login (email or Google), a clean Tailwind UI, and Next.js App Router pages for both public shopping and seller tools.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Firebase · Vercel
+
+---
+
+### 2. Wanderly · Travel agency platform
+
+**Repo:** [wanderly-travel-agency](https://github.com/atiqahmedreza/wanderly-travel-agency) · **Live:** [wanderly-web.onrender.com](https://wanderly-web.onrender.com)
+
+Wanderly helps travelers discover tour packages, read itineraries, save wishlists, book trips, and pay securely with Stripe, while admins manage packages, bookings, and reports from dedicated dashboards. It replaces scattered spreadsheets and separate marketing sites with one full-stack app: Next.js frontend, Express + MongoDB API, JWT roles, and analytics charts for daily operations.
+
+**Stack:** Next.js · Express.js · MongoDB · JWT · Stripe · Tailwind CSS · Recharts
+
+---
+
+### 3. Fable · Ebook sharing platform
+
+**Repo:** [fable-client](https://github.com/atiqahmedreza/fable-client) · [fable-server](https://github.com/atiqahmedreza/fable-server) · **Live:** [fable-client-pi.vercel.app](https://fable-client-pi.vercel.app)
+
+Fable is a digital bookstore marketplace where readers browse and buy ebooks, writers publish after verification, and admins control users, catalog, and payments from one place. Search, filters, Stripe checkout, bookmarks, wishlist, and role-based dashboards make it easy to run a small ebook business without juggling multiple tools.
+
+**Stack:** Next.js · Express.js · MongoDB · Better Auth · Stripe · Tailwind CSS · Framer Motion
+
+---
+
+### 4. StudyNook · Study room booking
+
+**Repo:** [studynook-client](https://github.com/atiqahmedreza/studynook-client) · [studynook-server](https://github.com/atiqahmedreza/studynook-server) · **Live:** [studynook-client-six.vercel.app](https://studynook-client-six.vercel.app)
+
+StudyNook lets students find library study rooms, filter by amenities and price, book hourly slots without double-booking, and manage their own listings and reservations from one account. Email or Google sign-in keeps sessions safe with HTTP-only cookies, so users can refresh the page and stay logged in while booking or canceling upcoming sessions.
+
+**Stack:** Next.js · Express.js · MongoDB · JWT · Tailwind CSS · Vercel
+
+---
+
+### 📫 Contact
 
 | | |
 | --- | --- |
-| **Repository** | [github.com/atiqahmedreza/meridian-goods](https://github.com/atiqahmedreza/meridian-goods) |
-| **Live demo** | [remontada-shop.vercel.app](https://remontada-shop.vercel.app) |
+| **Name** | Atiq Ahmed Reza |
+| **Location** | Rajshahi, Bangladesh |
+| **Phone** | +880 1706-362712 |
+| **WhatsApp** | [Chat on WhatsApp](https://wa.me/8801706362712) |
+| **Website** | [atiq-portfolio-pearl.vercel.app](https://atiq-portfolio-pearl.vercel.app/) |
 
-**About**  
-Meridian Goods is a polished online shop for browsing products, viewing details, and managing inventory after sign-in.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atiqahmedreza&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
+</p>
 
-**Problem it solves**  
-Small sellers and assessment-style storefronts need a fast catalog with auth-protected admin flows without building everything from scratch.
-
-**Benefits for users**  
-Shoppers get search, filters, and clear product pages. Signed-in users can add and manage products in one place.
-
-**Project overview**  
-Next.js App Router storefront with Firebase Authentication, responsive Tailwind UI, public catalog routes, and protected management routes.
-
-**Unique features**  
-- Themed landing sections with hero and footer  
-- Search, category, and max-price filters  
-- Dynamic product detail pages with related items  
-- Email/password and Google sign-in  
-- Protected **Add Product** and **Manage Products** routes  
-
-**Tech stack**  
-Next.js · TypeScript · Tailwind CSS · Firebase Auth · Vercel
-
-**Installation**
-
-```bash
-git clone https://github.com/atiqahmedreza/meridian-goods.git
-cd meridian-goods
-npm install
-cp .env.example .env.local
-# Add NEXT_PUBLIC_FIREBASE_* values from Firebase console
-npm run dev
+<p align="center"><i>Thanks for stopping by — let's build something useful together.</i></p>
